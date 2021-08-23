@@ -1,0 +1,233 @@
+[
+  {
+    "RecipesPic": [
+      {
+        "_id": "61082de82f4ec21f98ba4d68",
+        "name": "Ultimate Cheeseburger.png",
+        "alternativeText": "",
+        "caption": "",
+        "hash": "Ultimate_Cheeseburger_76dd01bc6d",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 108.43,
+        "width": 336,
+        "height": 257,
+        "url": "/uploads/Ultimate_Cheeseburger_76dd01bc6d.png",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_Ultimate Cheeseburger.png",
+            "hash": "thumbnail_Ultimate_Cheeseburger_76dd01bc6d",
+            "ext": ".png",
+            "mime": "image/png",
+            "width": 204,
+            "height": 156,
+            "size": 56.78,
+            "path": null,
+            "url": "/uploads/thumbnail_Ultimate_Cheeseburger_76dd01bc6d.png"
+          }
+        },
+        "provider": "local",
+        "related": ["6108270c8f9c2c1e083891ce"],
+        "createdAt": "2021-08-02T17:39:52.273Z",
+        "updatedAt": "2021-08-02T17:39:56.381Z",
+        "__v": 0,
+        "id": "61082de82f4ec21f98ba4d68"
+      }
+    ],
+    "_id": "6108270c8f9c2c1e083891ce",
+    "PreparationTime": "40 mins",
+    "published_at": "2021-08-02T17:13:16.592Z",
+    "createdAt": "2021-08-02T17:10:36.956Z",
+    "updatedAt": "2021-08-02T17:41:04.741Z",
+    "__v": 0,
+    "RecipesSubTitle": "Layer your burger with melted cheese, gherkins and lettuce.",
+    "CookingTime": "55 mins",
+    "Difficulty": "Medium",
+    "RecipesTitle": "Ultimate Cheeseburger",
+    "Serves": "2",
+    "Ingredients": [
+      {
+        "__component": "ingredients.ingredients",
+        "_id": "61082b63434e130cdcce9e87",
+        "Ingredient1": "1 American cheese slice",
+        "Ingredient3": "2 cheese slices",
+        "Ingredient5": "Lettuce",
+        "Ingredient7": "Salt and pepper to taste",
+        "Ingredient9": "",
+        "Ingredient2": "1 American cheese slice",
+        "IngredientsName": "For the assembly and serving (per burger)",
+        "Ingredient4": "Gherkin",
+        "Ingredient6": "Mayonnaise",
+        "id": "61082b63434e130cdcce9e87"
+      },
+      {
+        "__component": "ingredients.ingredients",
+        "_id": "61082c5b7460b81b686e2f43",
+        "IngredientsName": "For the ketchup",
+        "Ingredient1": "400g chopped tinned tomatoes",
+        "Ingredient2": "3 cloves of garlic",
+        "Ingredient3": "1 banana shallot, sliced",
+        "Ingredient4": "1 tablespoons Worcestershire sauce",
+        "Ingredient5": "2 tablespoons maple syrup",
+        "__v": 0,
+        "id": "61082c5b7460b81b686e2f43"
+      },
+      {
+        "__component": "ingredients.ingredients",
+        "_id": "61082ca07460b81b686e2f4a",
+        "IngredientsName": "For the onion rings",
+        "Ingredient1": "100g plain flour",
+        "Ingredient2": "2 teaspoons dried yeast",
+        "Ingredient3": "150ml lager",
+        "Ingredient4": "Pinch of salt",
+        "Ingredient5": "2 large onions",
+        "Ingredient6": "Oil for frying",
+        "__v": 0,
+        "id": "61082ca07460b81b686e2f4a"
+      }
+    ],
+    "TAGS": "beef",
+    "Method": [
+      {
+        "__component": "method.method",
+        "_id": "61082e302f4ec21f98ba4d72",
+        "Method1": "1. For the ketchup, put a pan on the heat, add some olive oil. Finely dice a shallot. Put into the pan and sweat them off. Finely chop some garlic, add some salt to use as an abrasive and purée the garlic, add to the pan. Once softened, add some tinned tomatoes, Worcestershire sauce and maple syrup then break up the tomatoes and allow to reduce & thicken for 30-40 minutes. Once reduced begin with the onion rings.",
+        "Method2": "2. For the batter, in a bowl put some plain flour, yeast and salt and whisk to get rid of any lumps. Pour in the lager a bit at a time and whisk until you have no lumps then rest for an hour. Take the top off the onion and cut thick rings, push the middle out, put onto a tray. Get the rested batter, whisk it to ensure there are no lumps. Dust the onions with flour, mix and drop into the batter and coat them.",
+        "Method3": "3. Take them to the pre-heated fryer at 170°C, carefully drop them in one at a time, keep them moving. After 4-5 minutes take them out of the fryer onto a tray covered in kitchen roll and allow to rest. For the burger take your beef, mould it to the right size/shape touching as little as possible. Oil your hands, not the griddle and coat the burgers in oil. Place them away from you onto the griddle. Sprinkle with salt and pepper. After about two minutes turns them over and season the other side.",
+        "Method4": "4. Take two slices of cheese and lay over the burger and lay another burger on top. Then lay over a slice of American burger cheese. Steam it inside by spraying the griddle with water and putting a saucepan over the top. Take the burger off the heat and rest.",
+        "Method5": "5. Take a bun, cut in half, brush it with melted butter and put onto the griddle and toast for a couple of seconds.\nTo build the burger, first spread mayonnaise on the top bun, lay on some lettuce, then spread some of the ketchup on the bottom bun. Lift the burger onto it and lay some sliced gherkin on the burger and put the bun lid on.",
+        "Method6": "6. On a board, put the remaining ketchup into a small bowl, then place some onion rings on the board and finally put the burger onto the board.",
+        "__v": 0,
+        "id": "61082e302f4ec21f98ba4d72"
+      }
+    ],
+    "Tags": [
+      {
+        "__component": "tags.tags",
+        "_id": "61082bd4434e130cdcce9e89",
+        "Tag1": "Bun",
+        "Tag2": "Beef",
+        "Tag3": "Cheese",
+        "Tag4": "Lettuce",
+        "Tag5": "Gherkin",
+        "Tag6": "Pepper",
+        "Tag7": "Tomato",
+        "Tag8": "Garlic",
+        "Tag9": "Shallot",
+        "__v": 0,
+        "id": "61082bd4434e130cdcce9e89"
+      }
+    ],
+    "id": "6108270c8f9c2c1e083891ce"
+  },
+  {
+    "RecipesPic": [
+      {
+        "_id": "61082f702f4ec21f98ba4d75",
+        "name": "Grilled Chipotle Pork Tacos.jpg",
+        "alternativeText": "",
+        "caption": "",
+        "hash": "Grilled_Chipotle_Pork_Tacos_4321ec0eb8",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 12.78,
+        "width": 259,
+        "height": 194,
+        "url": "/uploads/Grilled_Chipotle_Pork_Tacos_4321ec0eb8.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_Grilled Chipotle Pork Tacos.jpg",
+            "hash": "thumbnail_Grilled_Chipotle_Pork_Tacos_4321ec0eb8",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 208,
+            "height": 156,
+            "size": 11.83,
+            "path": null,
+            "url": "/uploads/thumbnail_Grilled_Chipotle_Pork_Tacos_4321ec0eb8.jpg"
+          }
+        },
+        "provider": "local",
+        "related": ["61082f372f4ec21f98ba4d74"],
+        "createdAt": "2021-08-02T17:46:24.911Z",
+        "updatedAt": "2021-08-02T17:46:28.480Z",
+        "__v": 0,
+        "id": "61082f702f4ec21f98ba4d75"
+      }
+    ],
+    "_id": "61082f372f4ec21f98ba4d74",
+    "published_at": "2021-08-02T17:51:22.064Z",
+    "RecipesSubTitle": "Cono Sur wine pairing: Make Taco Tuesday even better with a glass of voluptuous Pinot Noir.",
+    "Difficulty": "Easy",
+    "Serves": "4",
+    "CookingTime": "15 mins",
+    "PreparationTime": "10 mins",
+    "RecipesTitle": "Grilled Chipotle Pork Tacos with Red Slaw",
+    "Tags": [
+      {
+        "__component": "tags.tags",
+        "_id": "610830452f4ec21f98ba4d80",
+        "Tag1": "Coriander",
+        "Tag2": "Chipotle",
+        "Tag3": "Tenderloin",
+        "Tag4": "Pepper",
+        "Tag5": "Barbecue",
+        "Tag6": "Outdoor Party",
+        "Tag7": "Main Course",
+        "Tag8": "Lunch",
+        "Tag9": "Tacos ",
+        "__v": 0,
+        "id": "610830452f4ec21f98ba4d80"
+      }
+    ],
+    "Ingredients": [
+      {
+        "__component": "ingredients.ingredients",
+        "_id": "61082fcb2f4ec21f98ba4d79",
+        "Ingredient1": "1/4 cup fresh coriander leaves, finely chopped",
+        "Ingredient2": "1 tablespoon fresh lime juice",
+        "Ingredient3": "1 tablespoon vegetable oil",
+        "Ingredient4": "1 teaspoon chipotle chilli powder",
+        "Ingredient5": "2 cloves garlic, minced",
+        "Ingredient6": "1/4 small red onion, very thinly sliced",
+        "Ingredient7": "One 12-ounce pork tenderloin, cut into 1/2-inch-thick slices at an angle",
+        "Ingredient8": "Salt and freshly ground black pepper",
+        "IngredientsName": "For the Pork",
+        "__v": 0,
+        "id": "61082fcb2f4ec21f98ba4d79"
+      },
+      {
+        "__component": "ingredients.ingredients",
+        "_id": "610830022f4ec21f98ba4d7c",
+        "Ingredient1": "2 cups shredded red cabbage",
+        "Ingredient2": "1/4 cup fresh coriander leaves, finely chopped",
+        "Ingredient3": "1 tablespoon vegetable oil",
+        "Ingredient4": "1 tablespoon cider vinegar",
+        "Ingredient5": "1/4 teaspoon chipotle chilli powder",
+        "Ingredient6": "1 small red bell pepper, very thinly sliced",
+        "Ingredient7": "8 corn tortillas",
+        "Ingredient8": "8 teaspoons reduced-fat sour cream",
+        "Ingredient9": "Lime wedges, for serving",
+        "IngredientsName": "For the Red Slaw",
+        "__v": 0,
+        "id": "610830022f4ec21f98ba4d7c"
+      }
+    ],
+    "Method": [
+      {
+        "__component": "method.method",
+        "_id": "61082f8d2f4ec21f98ba4d77",
+        "Method1": "For the pork: Combine the coriander, lime juice, oil, chile powder, garlic and onions in a large dish. Add the pork slices and turn to coat. Preheat a grill on medium-high heat.",
+        "Method2": "For the red slaw: Combine the cabbage, coriander, oil, vinegar, chile powder, bell peppers, red onions and 1/4 teaspoon each salt and pepper in a large bowl. Toss to mix and set aside.",
+        "Method3": "Remove the pork from the marinade and discard the remaining marinade. Sprinkle the pork on both sides with 1/4 teaspoon each salt and pepper. Grill, turning once, until browned and still a little rosy inside, about 10 minutes. Transfer to a large plate.",
+        "Method4": "Grill the tortillas, turning once, until grill marks appear and the tortillas are softened, about 1 minute. Transfer to individual plates. Divide the pork and a little slaw among the tortillas. Top each tortilla with a teaspoon of sour cream and serve with lime wedges.",
+        "__v": 0,
+        "id": "61082f8d2f4ec21f98ba4d77"
+      }
+    ],
+    "createdAt": "2021-08-02T17:45:27.243Z",
+    "updatedAt": "2021-08-02T17:51:22.241Z",
+    "__v": 0,
+    "id": "61082f372f4ec21f98ba4d74"
+  }
+]
